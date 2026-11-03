@@ -99,7 +99,7 @@ export const Dashboard = () => {
             </h1>
             {isDemoMode && (
               <span className="px-2.5 py-0.5 rounded-full text-[10px] font-bold bg-[#D97706]/20 text-[#D97706] border border-[#D97706]/40 uppercase tracking-wider">
-                DEMO PREVIEW
+                Tampilan Demo
               </span>
             )}
           </div>
