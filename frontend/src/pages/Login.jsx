@@ -67,7 +67,7 @@ export const Login = () => {
             Masukk ke <span className="text-[#47C826]">CengkihTrack</span>
           </h1>
           <p className="text-xs sm:text-sm text-[#AA8BAD] mt-1">
-            Sistem Pencatatan Hasil Panen & Penjualan Cengkih
+            Sistemmm Pencatatan Hasil Panen & Penjualan Cengkih
           </p>
         </div>
 
