@@ -64,7 +64,7 @@ export const Login = () => {
             <Sprout className="w-9 h-9 text-[#0F1E0F]" />
           </div>
           <h1 className="text-2xl sm:text-3xl font-extrabold text-white tracking-wide">
-            Masukk ke <span className="text-[#47C826]">CengkihTrack</span>
+            MasukkKK ke <span className="text-[#47C826]">CengkihTrack</span>
           </h1>
           <p className="text-xs sm:text-sm text-[#AA8BAD] mt-1">
             Sistem Pencatatan Hasil Panen & Penjualan Cengkih
